@@ -1,6 +1,9 @@
 ﻿#Code and macros to accompany the manuscript: “Quantitative measurement of morphometric indicators of skeletal muscle cell behaviour and quality”
 #Code written by David Hardman, Centre for Medical Informatics, Usher Institute, University of Edinburgh unless explicitly stated.
 
+#Documentation for Live Image analysis -> Live_Images/Documentation for myocyte tracking code.docx
+#Documentation for Static Image analysis -> Static_Images/Documentation for static muscle cell analysis code 240110.docx
+
 #Example macros used for pre-processing and/or binarising images in ImageJ -> /ImageJ_Preprocessing_Macros/
 
 #Quantification of live images of myoblast motion and fusion -> /Live_Images/

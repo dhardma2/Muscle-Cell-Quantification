@@ -42,7 +42,7 @@ Batch_mode= Dialog.getChoice();
 //pixel size used for rolling ball background subtraction
 SubtractionPxSize="70";
 
-for (i = 1; i < no_imgs; i++) {
+for (i = 1; i < no_imgs+1; i++) {
 // select file
 if(i < 10){
 	filename=File_struct+"0"+i;

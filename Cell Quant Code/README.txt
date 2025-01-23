@@ -4,15 +4,12 @@
 #Example macros used for pre-processing and/or binarising images in ImageJ -> /ImageJ_Preprocessing_Macros/
 
 #Quantification of live images of myoblast motion and fusion -> /Live_Images/
-#For stained images: CellTrackWorkFlowLiveImaging.m, for brightfield images: CellTrackWorkFlowUnStained.m
-#For orientation statistics on myotubes: MTAngleStats.m
-
+#CellTrackWorkFlowLiveImaging240110.m
 
 #Quantification of static images -> /Static_Images/
+#Semi-Automated cell feature analysis ->StaticImageMetricsBatch240110.m
 #For manual measurement of myonuclei and actin structures -> /Manual/
-#For images stained for Actin and DAPI -> Actin_DAPI_only
+#For images stained for Actin and DAPI 
 #Un-binarised images -> StaticCellBinarizSeg.m , binarised images -> StaticCellSeg.m
-#For images stained for Actin, DAPI and a marker of myonuclei (Myogenin or pericentrin) -> /Actin_DAPI_myonuclei/
-#Option to include the average pixel area of myoblast nuclei (MCmean0) if known to improve accuracy.
-#If images of BTX staining to quantify acetylcholine receptors is available -> StaticCellSegBTX.m
+
 #Additional myotube orientation metrics -> /Myotube_orientation_statistics/Orientation_extractor.m
